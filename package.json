@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-run",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Action: run Claude Code through one pinned wrapper",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test src/*.test.js"
+  },
+  "devDependencies": {
+    "yaml": "2.8.1"
+  },
+  "type": "module"
+}
